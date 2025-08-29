@@ -1,7 +1,6 @@
 File Structure:
-quiz-app/
 ├── index.html
-├── styles.css
+├── style.css
 └── script.js
 
 
@@ -12,7 +11,7 @@ Semantic HTML: Proper structure with IDs for JavaScript interaction
 External file links: Links to separate CSS and JS files
 Accessibility: Labels, proper heading hierarchy
 
-CSS Styling (styles.css):
+CSS Styling (style.css):
 Modern Design: Glassmorphism effects with backdrop-filter
 Responsive Layout: Mobile-first design with media queries
 Smooth Animations: Transitions, hover effects, and keyframe animations
